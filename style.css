@@ -19,7 +19,7 @@ body{
 .trees{
     height: 100vh;
     width:100%;
-    background-image: url(https://github.com/AniketPandey3601/Moving-Car/blob/master/base.png);
+    background-image: url(https://raw.github.com/AniketPandey3601/Moving-Car/blob/master/base.png);
     background-size: cover;
     position: absolute;
    
@@ -27,7 +27,7 @@ body{
 .track{
     height:20vh;
     width:800vw;
-    background-image: url(https://github.com/AniketPandey3601/Moving-Car/blob/master/track.png);
+    background-image: url(https://raw.github.com/AniketPandey3601/Moving-Car/blob/master/track.png);
     
     position: absolute;
     bottom: -10px;
