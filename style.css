@@ -9,7 +9,7 @@ body{
 .sky{
     height: 100vh;
     width: 100%;
-    background-image: url(/sky.webp);
+    background-image: url(sky.webp);
     position: absolute;
     background-repeat: no-repeat;
     background-size: cover;
@@ -19,7 +19,7 @@ body{
 .trees{
     height: 100vh;
     width:100%;
-    background-image: url(/base.png);
+    background-image: url(base.png);
     background-size: cover;
     position: absolute;
    
@@ -27,7 +27,7 @@ body{
 .track{
     height:20vh;
     width:800vw;
-    background-image: url(/track.png);
+    background-image: url(track.png);
     
     position: absolute;
     bottom: -10px;
