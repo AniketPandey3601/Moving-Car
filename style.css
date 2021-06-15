@@ -27,7 +27,7 @@ body{
 .track{
     height:20vh;
     width:800vw;
-    background-image: url(hhttps://github.com/AniketPandey3601/Moving-Car/blob/master/track.png);
+    background-image: url(https://raw.githubusercontent.com/AniketPandey3601/Moving-Car/master/track.png);
     
     position: absolute;
     bottom: -10px;
